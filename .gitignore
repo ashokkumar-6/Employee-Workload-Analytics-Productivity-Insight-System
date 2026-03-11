@@ -1,0 +1,57 @@
+# Python cache files
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
+venv/
+env/
+.venv/
+
+# Environment variables
+
+.env
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# System files
+
+.DS_Store
+Thumbs.db
+
+# Python compiled files
+
+*.pyo
+*.pyd
+
+# Logs
+
+*.log
+
+# Streamlit files
+
+.streamlit/
+
+# Dataset files (optional if you don't want to upload large data)
+
+*.csv
+*.xlsx
+*.json
+
+# Model files
+
+*.pkl
+*.joblib
+
+# VS Code settings
+
+.vscode/
+
+# Temporary files
+
+*.tmp
+*.temp
